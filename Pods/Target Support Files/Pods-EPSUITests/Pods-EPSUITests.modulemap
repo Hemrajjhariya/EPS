@@ -1,0 +1,6 @@
+framework module Pods_EPSUITests {
+  umbrella header "Pods-EPSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
